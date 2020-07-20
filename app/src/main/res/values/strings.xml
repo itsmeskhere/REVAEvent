@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">REVA Event</string>
+    <string name="add_new">Add New</string>
+    <string name="view_all">View All</string>
+</resources>
